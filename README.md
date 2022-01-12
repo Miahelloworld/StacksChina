@@ -1,6 +1,8 @@
 # StacksChina
 The Chinese language translation program for stacks blockchain
 
+stacks区块链中文翻译工程
+
 ![image](https://i.imgur.com/miswbxG.jpeg)
 
 
@@ -39,13 +41,15 @@ nftree： https://github.com/jcnelson/nftree
 * * *
 
 
-**Clarity开发语言：**
+**Clarity开发语言教程：**
 
 [clarity私有函数](https://github.com/Miahelloworld/StacksChina/blob/main/tutorials/clarity/clarity%E7%A7%81%E6%9C%89%E5%87%BD%E6%95%B0.md)
 
 [try!函数和Unwrap函数使用](https://github.com/Miahelloworld/StacksChina/blob/main/tutorials/clarity/try!%E5%87%BD%E6%95%B0%E5%92%8CUnwrap%E5%87%BD%E6%95%B0%E4%BD%BF%E7%94%A8.md)
 
+[hello world教程](https://github.com/Miahelloworld/StacksChina/blob/main/tutorials/clarity/hello%20world%E6%95%99%E7%A8%8B.md)
 
+[时间锁钱包](https://github.com/Miahelloworld/StacksChina/blob/main/tutorials/clarity/%E6%97%B6%E9%97%B4%E9%94%81%E9%92%B1%E5%8C%85.md)
 
 * * *
 
