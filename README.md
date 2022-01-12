@@ -15,6 +15,13 @@ https://medium.com/@stacksblockchainnews
 
 **stacks区块链去中心化应用列表：**
 
+[Sigle](https://www.sigle.io/) Medium的替代品，一个开源的去中心化博客写作平台
+
+[Pravica](https://pravica.io/) 去中心化的通讯软件，聊天数据存储在用户自己的gaia数据库
+
+[BlockSurvey](https://blocksurvey.io/) 去中心化问卷调查网站，可以完美替代google form
+
+
 
 * * *
 
@@ -25,10 +32,7 @@ nftree： https://github.com/jcnelson/nftree
 
 [sip009 nft协议标准](https://github.com/Miahelloworld/StacksChina/blob/main/tutorials/clarity/sip009%20nft%E5%8D%8F%E8%AE%AE%E6%A0%87%E5%87%86.md)
 
-
-
 * * *
-
 
 **NFT交易市场**
 
@@ -40,6 +44,7 @@ nftree： https://github.com/jcnelson/nftree
 
 [stacksart](https://www.stacksart.com/)
 
+[Boom](https://boom.money/)  nft铸造市场
 
 
 * * *
