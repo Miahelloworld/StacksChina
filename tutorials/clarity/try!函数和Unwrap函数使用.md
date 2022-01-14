@@ -1,15 +1,4 @@
-﻿---
-title: try!函数和Unwrap函数使用  
-date: 2021-10-06T06:30:24.891Z  
-lastmod: 2021-10-06T11:56:02.995Z  
-author: sulayman  
-category:  
-notebook:   
-favorite: false  
-color: white  
-shared with:  
 
----
 英文原文档：https://book.clarity-lang.org/ch06-02-try.html
 
  try!函数采用optional 或 response 类型，并将尝试解开它。解开是提取内部值并返回它的动作。以下面的例子为例：
