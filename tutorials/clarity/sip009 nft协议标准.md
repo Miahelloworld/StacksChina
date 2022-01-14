@@ -1,15 +1,4 @@
-﻿---
-title: sip009 nft协议标准  
-date: 2021-11-09T05:05:37.989Z  
-lastmod: 2021-11-09T13:34:27.389Z  
-author: sulayman  
-category:  
-notebook:   
-favorite: false  
-color: white  
-shared with:  
 
----
 
 英文原地址： https://github.com/stacksgov/sips/blob/main/sips/sip-009/sip-009-nft-standard.md
 
