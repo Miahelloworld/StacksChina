@@ -1,15 +1,4 @@
-﻿---
-title: clarity私有函数  
-date: 2021-09-26T02:20:02.871Z  
-lastmod: 2021-09-26T07:29:34.367Z  
-author: sulayman  
-category:  
-notebook:   
-favorite: false  
-color: white  
-shared with:  
 
----
 原英文文档链接：https://book.clarity-lang.org/ch05-02-private-functions.html
 
 **只读函数**
