@@ -1,15 +1,4 @@
-﻿---
-title: 用clarity写一个hello world  
-date: 2021-08-16T01:07:04.617Z  
-lastmod: 2021-08-24T07:29:22.610Z  
-author: sulayman  
-category:  
-notebook:   
-favorite: false  
-color: white  
-shared with:  
 
----
 学习 Clarity语言的基础知识，并编写一个简单的 Hello World 智能合约程序。
 
 英语开发文档原地址：https://docs.stacks.co/write-smart-contracts/hello-world-tutorial
