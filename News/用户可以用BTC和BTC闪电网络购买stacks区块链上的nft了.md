@@ -1,15 +1,4 @@
-﻿---
-title: 用户可以用BTC和BTC闪电网络购买stacks区块链上的nft了  
-date: 2022-01-12T04:10:13.587Z  
-lastmod: 2022-01-12T04:10:13.587Z  
-author: sulayman  
-category:  
-notebook:   
-favorite: false  
-color: white  
-shared with:  
 
----
 用户可以用BTC和BTC闪电网络购买stacks区块链上的nft了
 
 LNSwap.org推出了一个可以嵌入的代码，开发者可以整合api到自己的nft交易网站。让普通用户可以在独立网站上直接通过btc兑换stx，或者在nft交易网站上直接支付btc，就可以购买并收到nft。
