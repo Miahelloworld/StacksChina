@@ -90,3 +90,15 @@ Xverse手机钱包：https://www.xverse.app/
 [explorer.syvita.org](https://explorer.syvita.org/?chain=mainnet)
 
 [stacksonchain.com](https://stacksonchain.com/)
+
+**数据分析**
+
+[stxstats](https://www.stxstats.co/) 分析目前stacks区块链上的转账手续费数据、活跃地址数、新增地址数等等 
+
+[stxmining club](https://www.stxmining.club/)   查看stacks区块链上矿工数据和挖矿数据
+
+[stacking club](https://stacking.club/)     查看stacks区块链上的STX加密货币质押数据和BTC奖励数据
+
+[stacksonchain](https://stacksonchain.com/nftoverview)   查看stacks区块链上的NFT数据
+
+[stacksdata](https://stacksdata.info/)   查看stx加密货币最多的持有人分布数据、最近50个区块最多调用的智能合约数据、和矿池数据
