@@ -85,8 +85,8 @@ Xverse手机钱包：https://www.xverse.app/
 
 **stacks区块链浏览器**
 
-explorer.stacks.co or 
+[explorer.stacks.co](https://explorer.stacks.co/?chain=mainnet) 
 
-explorer.syvita.org
+[explorer.syvita.org](https://explorer.syvita.org/?chain=mainnet)
 
-stacksonchain.com
+[stacksonchain.com](https://stacksonchain.com/)
