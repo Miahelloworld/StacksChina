@@ -10,6 +10,8 @@ stacks区块链中文翻译工程
 
 https://medium.com/@stacksblockchainnews
 
+[币安交易所举行锁仓stx获得bitcoin奖励的活动（年回报率高达28%）](https://github.com/Miahelloworld/StacksChina/blob/main/News/币安交易所举行锁仓stx获得bitcoin奖励的活动（年回报率高达28%）.md)
+
 
 * * *
 
