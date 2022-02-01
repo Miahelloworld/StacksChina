@@ -8,7 +8,9 @@ stacks区块链中文翻译工程
 
 **stacks区块链新闻：**
 
-https://medium.com/@stacksblockchainnews
+Medium社区： https://medium.com/@stacksblockchainnews
+
+Reddit社区： https://www.reddit.com/r/stackschina/
 
 2022-02-01 [stacks区块链社区正在招聘6-12位大使](https://github.com/Miahelloworld/StacksChina/blob/main/News/stacks区块链社区正在招聘6-12位大使.md)
 
