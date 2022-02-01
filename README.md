@@ -10,6 +10,8 @@ stacks区块链中文翻译工程
 
 https://medium.com/@stacksblockchainnews
 
+2022-02-01 [stacks区块链社区正在招聘6-12位大使](https://github.com/Miahelloworld/StacksChina/blob/main/News/stacks区块链社区正在招聘6-12位大使.md)
+
 2022-01-26 [币安交易所举行锁仓stx获得bitcoin奖励的活动](https://medium.com/@stacksblockchainnews/币安交易所举行锁仓stx获得bitcoin奖励的活动-年回报率高达28-b33f10cf3e11)
 
 2022-01-24 [coinbase上线了购买stx加密货币的交易对](https://medium.com/@stacksblockchainnews/coinbase%E4%B8%8A%E7%BA%BF%E4%BA%86%E8%B4%AD%E4%B9%B0stx%E5%8A%A0%E5%AF%86%E8%B4%A7%E5%B8%81%E7%9A%84%E4%BA%A4%E6%98%93%E5%AF%B9-28a8a1a6d6a)
