@@ -23,6 +23,7 @@ stacks区块链社区正在招聘6-12位大使，促进stacks区块链的生态�
 
 具体细节招聘要求请点击：
 https://stacks.org/grants-ambassadors
+
 stacks区块链官方discord聊天群组：https://discord.gg/zsg375r7EQ
 
 
