@@ -1,16 +1,4 @@
-﻿---
-title: stacks区块链上线宣传大使奖励项目  
-date: 2022-02-01T03:26:58.872Z  
-lastmod: 2022-02-01T03:26:58.872Z  
-author: sulayman  
-category:  
-notebook:   
-favorite: false  
-color: white  
-shared with:  
 
----
-stacks区块链上线宣传大使奖励项目
 
 stacks区块链社区正在招聘6-12位大使，促进stacks区块链的生态发展。
 
