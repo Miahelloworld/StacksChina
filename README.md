@@ -12,6 +12,8 @@ Medium社区： https://medium.com/@stacksblockchainnews
 
 Reddit社区： https://www.reddit.com/r/stackschina/
 
+2022-02-02 [Syvita开通纽约和迈阿密城市币挖矿矿池](https://medium.com/@stacksblockchainnews/syvita%E5%BC%80%E9%80%9A%E7%BA%BD%E7%BA%A6%E5%92%8C%E8%BF%88%E9%98%BF%E5%AF%86%E5%9F%8E%E5%B8%82%E5%B8%81%E6%8C%96%E7%9F%BF%E7%9F%BF%E6%B1%A0-d0dad6f97caf)
+
 2022-02-01 [stacks区块链社区正在招聘6-12位大使](https://github.com/Miahelloworld/StacksChina/blob/main/News/stacks区块链社区正在招聘6-12位大使.md)
 
 2022-01-26 [币安交易所举行锁仓stx获得bitcoin奖励的活动](https://medium.com/@stacksblockchainnews/币安交易所举行锁仓stx获得bitcoin奖励的活动-年回报率高达28-b33f10cf3e11)
