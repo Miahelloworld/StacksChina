@@ -12,6 +12,8 @@ Medium社区： https://medium.com/@stacksblockchainnews
 
 Reddit社区： https://www.reddit.com/r/stackschina/
 
+2022-02-04 [Muneeb Ali和普林斯顿教授JP已融资1.5亿美元创办Trust Machine](https://www.reddit.com/r/stackschina/comments/sk7pdu/muneeb_ali%E5%92%8C%E6%99%AE%E6%9E%97%E6%96%AF%E9%A1%BF%E6%95%99%E6%8E%88%E5%B7%B2%E8%9E%8D%E8%B5%8415%E4%BA%BF%E7%BE%8E%E5%85%83%E5%88%9B%E5%8A%9Etrust_machine/)
+
 2022-02-04 [coinlist交易所已经支持交易买卖stx加密货币](https://www.reddit.com/r/stackschina/comments/sk70z3/coinlist%E4%BA%A4%E6%98%93%E6%89%80%E5%B7%B2%E7%BB%8F%E6%94%AF%E6%8C%81%E4%BA%A4%E6%98%93%E4%B9%B0%E5%8D%96stx%E5%8A%A0%E5%AF%86%E8%B4%A7%E5%B8%81/)
 
 2022-02-02 [Syvita开通纽约和迈阿密城市币挖矿矿池](https://medium.com/@stacksblockchainnews/syvita%E5%BC%80%E9%80%9A%E7%BA%BD%E7%BA%A6%E5%92%8C%E8%BF%88%E9%98%BF%E5%AF%86%E5%9F%8E%E5%B8%82%E5%B8%81%E6%8C%96%E7%9F%BF%E7%9F%BF%E6%B1%A0-d0dad6f97caf)
