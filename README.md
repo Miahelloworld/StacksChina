@@ -11,6 +11,8 @@ stacks区块链中文翻译工程
 Medium社区： https://medium.com/@stacksblockchainnews
 
 Reddit社区： https://www.reddit.com/r/stackschina/
+2022-02-07 [okcoin交易所正在向stacks区块链用户空投价值10000美金左右的加密资产](https://medium.com/@stacksblockchainnews/okcoin%E4%BA%A4%E6%98%93%E6%89%80%E6%AD%A3%E5%9C%A8%E5%90%91stacks%E5%8C%BA%E5%9D%97%E9%93%BE%E7%94%A8%E6%88%B7%E7%A9%BA%E6%8A%95%E4%BB%B7%E5%80%BC10000%E7%BE%8E%E9%87%91%E5%B7%A6%E5%8F%B3%E7%9A%84%E5%8A%A0%E5%AF%86%E8%B5%84%E4%BA%A7-34da6db6fa8c)
+![image](https://miro.medium.com/max/1400/1*YMaM0iOaU_OoLFKyamhODQ.png)
 
 2022-02-04 [Muneeb Ali和普林斯顿教授JP已融资1.5亿美元创办Trust Machine](https://www.reddit.com/r/stackschina/comments/sk7pdu/muneeb_ali%E5%92%8C%E6%99%AE%E6%9E%97%E6%96%AF%E9%A1%BF%E6%95%99%E6%8E%88%E5%B7%B2%E8%9E%8D%E8%B5%8415%E4%BA%BF%E7%BE%8E%E5%85%83%E5%88%9B%E5%8A%9Etrust_machine/)
 
