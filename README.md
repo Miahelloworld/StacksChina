@@ -12,6 +12,8 @@ Medium社区： https://medium.com/@stacksblockchainnews
 
 Reddit社区： https://www.reddit.com/r/stackschina/
 
+2022-02-09 [Defi平台stackswap正在空投金牌通行证NFT和银牌通行证NFT](https://medium.com/@stacksblockchainnews/defi%E5%B9%B3%E5%8F%B0stackswap%E6%AD%A3%E5%9C%A8%E7%A9%BA%E6%8A%95%E9%87%91%E7%89%8C%E9%80%9A%E8%A1%8C%E8%AF%81nft%E5%92%8C%E9%93%B6%E7%89%8C%E9%80%9A%E8%A1%8C%E8%AF%81nft-5a462c34ea64)
+
 
 2022-02-07 [okcoin交易所正在向stacks区块链用户空投价值10000美金左右的加密资产](https://medium.com/@stacksblockchainnews/okcoin%E4%BA%A4%E6%98%93%E6%89%80%E6%AD%A3%E5%9C%A8%E5%90%91stacks%E5%8C%BA%E5%9D%97%E9%93%BE%E7%94%A8%E6%88%B7%E7%A9%BA%E6%8A%95%E4%BB%B7%E5%80%BC10000%E7%BE%8E%E9%87%91%E5%B7%A6%E5%8F%B3%E7%9A%84%E5%8A%A0%E5%AF%86%E8%B5%84%E4%BA%A7-34da6db6fa8c)
 
