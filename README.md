@@ -12,6 +12,9 @@ Medium社区： https://medium.com/@stacksblockchainnews
 
 Reddit社区： https://www.reddit.com/r/stackschina/
 
+2022-02-11 [MagicBridge正在开发$BTC 和 $XBTC 之间的原生交换协议](https://www.reddit.com/r/stackschina/comments/sq8sgn/magicbridge%E6%AD%A3%E5%9C%A8%E5%BC%80%E5%8F%91btc_%E5%92%8C_xbtc_%E4%B9%8B%E9%97%B4%E7%9A%84%E5%8E%9F%E7%94%9F%E4%BA%A4%E6%8D%A2%E5%8D%8F%E8%AE%AE/)
+
+
 2022-02-09 [Defi平台stackswap正在空投金牌通行证NFT和银牌通行证NFT](https://medium.com/@stacksblockchainnews/defi%E5%B9%B3%E5%8F%B0stackswap%E6%AD%A3%E5%9C%A8%E7%A9%BA%E6%8A%95%E9%87%91%E7%89%8C%E9%80%9A%E8%A1%8C%E8%AF%81nft%E5%92%8C%E9%93%B6%E7%89%8C%E9%80%9A%E8%A1%8C%E8%AF%81nft-5a462c34ea64)
 
 
@@ -95,6 +98,8 @@ nftree： https://github.com/jcnelson/nftree
 [hello world教程](https://github.com/Miahelloworld/StacksChina/blob/main/tutorials/clarity/hello%20world%E6%95%99%E7%A8%8B.md)
 
 [时间锁钱包](https://github.com/Miahelloworld/StacksChina/blob/main/tutorials/clarity/%E6%97%B6%E9%97%B4%E9%94%81%E9%92%B1%E5%8C%85.md)
+
+[编程风格和规范](https://github.com/Miahelloworld/StacksChina/blob/main/tutorials/clarity/Clarity%E6%99%BA%E8%83%BD%E5%90%88%E7%BA%A6%E5%BC%80%E5%8F%91%E8%AF%AD%E8%A8%80%E7%9A%84%E7%BC%96%E7%A8%8B%E9%A3%8E%E6%A0%BC.md)
 
 * * *
 
