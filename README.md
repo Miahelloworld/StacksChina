@@ -12,6 +12,11 @@ Medium社区： https://medium.com/@stacksblockchainnews
 
 Reddit社区： https://www.reddit.com/r/stackschina/
 
+
+2022-02-14 [NFP工作室面向stacks区块链上线项目检测网站nfpstudio.io](https://medium.com/@stacksblockchainnews/nfp-%E5%B7%A5%E4%BD%9C%E5%AE%A4%E9%9D%A2%E5%90%91stacks%E5%8C%BA%E5%9D%97%E9%93%BE%E4%B8%8A%E7%BA%BF%E9%A1%B9%E7%9B%AE%E6%A3%80%E6%B5%8B%E7%BD%91%E7%AB%99nfpstudio-io-614c52c0f368)
+
+2022-02-12 [stacks区块链节点2.05.0.1.0正式发布](https://medium.com/@stacksblockchainnews/stacks%E5%8C%BA%E5%9D%97%E9%93%BE%E8%8A%82%E7%82%B92-05-0-1-0%E6%AD%A3%E5%BC%8F%E5%8F%91%E5%B8%83-5b4a9469c9e9)
+
 2022-02-11 [MagicBridge正在开发$BTC 和 $XBTC 之间的原生交换协议](https://www.reddit.com/r/stackschina/comments/sq8sgn/magicbridge%E6%AD%A3%E5%9C%A8%E5%BC%80%E5%8F%91btc_%E5%92%8C_xbtc_%E4%B9%8B%E9%97%B4%E7%9A%84%E5%8E%9F%E7%94%9F%E4%BA%A4%E6%8D%A2%E5%8D%8F%E8%AE%AE/)
 
 
