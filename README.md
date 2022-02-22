@@ -12,6 +12,15 @@ Medium社区： https://medium.com/@stacksblockchainnews
 
 Reddit社区： https://www.reddit.com/r/stackschina/
 
+2022-02-22 [Magic桥已经上线了xbtc/btc 兑换测试网](Magic桥已经上线了xbtc/btc 兑换测试网)
+
+2022-02-19 [stacks区块链举办2022年比特币创新虚拟峰会](https://www.reddit.com/r/stackschina/comments/sw43fl/stacks%E5%8C%BA%E5%9D%97%E9%93%BE%E4%B8%BE%E5%8A%9E2022%E5%B9%B4%E6%AF%94%E7%89%B9%E5%B8%81%E5%88%9B%E6%96%B0%E8%99%9A%E6%8B%9F%E5%B3%B0%E4%BC%9A/)
+
+2022-02-18 [zest protocol开发团队发布原生比特币借贷协议细则](https://www.reddit.com/r/stackschina/comments/svagnt/zest_protocol%E5%BC%80%E5%8F%91%E5%9B%A2%E9%98%9F%E5%8F%91%E5%B8%83%E5%8E%9F%E7%94%9F%E6%AF%94%E7%89%B9%E5%B8%81%E5%80%9F%E8%B4%B7%E5%8D%8F%E8%AE%AE%E7%BB%86%E5%88%99/)
+
+
+2022-02-16 [比特币Defi平台Alex发布未来的发展计划](https://www.reddit.com/r/stackschina/comments/stiac4/%E6%AF%94%E7%89%B9%E5%B8%81defi%E5%B9%B3%E5%8F%B0alex%E5%8F%91%E5%B8%83%E6%9C%AA%E6%9D%A5%E7%9A%84%E5%8F%91%E5%B1%95%E8%AE%A1%E5%88%92/)
+
 
 2022-02-14 [NFP工作室面向stacks区块链上线项目检测网站nfpstudio.io](https://medium.com/@stacksblockchainnews/nfp-%E5%B7%A5%E4%BD%9C%E5%AE%A4%E9%9D%A2%E5%90%91stacks%E5%8C%BA%E5%9D%97%E9%93%BE%E4%B8%8A%E7%BA%BF%E9%A1%B9%E7%9B%AE%E6%A3%80%E6%B5%8B%E7%BD%91%E7%AB%99nfpstudio-io-614c52c0f368)
 
