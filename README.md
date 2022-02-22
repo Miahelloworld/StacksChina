@@ -12,7 +12,7 @@ Medium社区： https://medium.com/@stacksblockchainnews
 
 Reddit社区： https://www.reddit.com/r/stackschina/
 
-2022-02-22 [Magic桥已经上线了xbtc/btc 兑换测试网](Magic桥已经上线了xbtc/btc 兑换测试网)
+2022-02-22 [Magic桥已经上线了xbtc和btc兑换测试网](https://www.reddit.com/user/StacksChina/comments/sycwt1/magic_%E6%A1%A5%E5%B7%B2%E7%BB%8F%E4%B8%8A%E7%BA%BF%E4%BA%86xbtcbtc_%E5%85%91%E6%8D%A2%E6%B5%8B%E8%AF%95%E7%BD%91/)
 
 2022-02-19 [stacks区块链举办2022年比特币创新虚拟峰会](https://www.reddit.com/r/stackschina/comments/sw43fl/stacks%E5%8C%BA%E5%9D%97%E9%93%BE%E4%B8%BE%E5%8A%9E2022%E5%B9%B4%E6%AF%94%E7%89%B9%E5%B8%81%E5%88%9B%E6%96%B0%E8%99%9A%E6%8B%9F%E5%B3%B0%E4%BC%9A/)
 
